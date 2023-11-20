@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Nic Bolton
 
-### I'm currently a student at the University of Windsor, graduating in 2025 with a Cwwwombined Honours Physics & Computer Science degree
+### I'm currently a student at the University of Windsor, graduating in 2025 with a Combined Honours Physics & Computer Science degree
 
 **Connect with me**
 
