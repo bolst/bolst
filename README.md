@@ -1,62 +1,37 @@
 ### Hi 👋, I'm Nic Bolton
 
+### I'm currently a student at the University of Windsor, graduating in 2025 with a combined Honours Physics & Computer Science degree
+
+**Connect with me**
+
 <a href="https://leetcode.com/bolst/">
-  <img align="left" alt="leetcode" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" />
+  <img align="left" alt="leetcode" width="45px" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" />
 </a>
 <a href="https://www.linkedin.com/in/nicbolt/">
-  <img align="left" alt="linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
+  <img align="left" alt="linkedin" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
 </a>
 
-<br/>
-<br/>
-
-I am a student at the University of Windsor, graduating in 2025 with a combined Honours Physics & Computer Science degree
+<br/><br/><br/>
 
 **Languages**
 
 <a href="https://www.linkedin.com/in/nicbolt/">
-<img align="left" alt="linkedin" width="45px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
+<img align="left" alt="linkedin" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-java-59-1174952.png?f=webp&w=256" />
 </a>
 <a href="https://www.linkedin.com/in/nicbolt/">
 <img align="left" alt="linkedin" width="45px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
 </a>
 <a href="https://www.linkedin.com/in/nicbolt/">
-<img align="left" alt="linkedin" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" />
+<img align="left" alt="linkedin" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-cplusplus-1-1175244.png?f=webp&w=256" />
 </a>
 <a href="https://www.linkedin.com/in/nicbolt/">
-<img align="left" alt="linkedin" width="45px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
+<img align="left" alt="linkedin" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-1-1175241.png?f=webp&w=256" />
 </a>
 <a href="https://www.linkedin.com/in/nicbolt/">
-<img align="left" alt="linkedin" width="45px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
+<img align="left" alt="linkedin" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-html5-40-1175193.png?f=webp&w=256" />
 </a>
 <a href="https://www.linkedin.com/in/nicbolt/">
-<img align="left" alt="linkedin" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" />
-</a>
-
-<br>
-<br>
-<br>
-<br>
-
-**Frameworks**
-
-<a href="https://www.linkedin.com/in/nicbolt/">
-<img align="left" alt="linkedin" width="45px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-</a>
-<a href="https://www.linkedin.com/in/nicbolt/">
-<img align="left" alt="linkedin" width="45px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
-</a>
-<a href="https://www.linkedin.com/in/nicbolt/">
-<img align="left" alt="linkedin" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" />
-</a>
-<a href="https://www.linkedin.com/in/nicbolt/">
-<img align="left" alt="linkedin" width="45px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-</a>
-<a href="https://www.linkedin.com/in/nicbolt/">
-<img align="left" alt="linkedin" width="45px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
-</a>
-<a href="https://www.linkedin.com/in/nicbolt/">
-<img align="left" alt="linkedin" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" />
+<img align="left" alt="linkedin" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-css3-11-1175239.png?f=webp&w=256" />
 </a>
 
 
