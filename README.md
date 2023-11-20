@@ -15,10 +15,19 @@
 
 **Languages**
 
-<img href="https://www.java.com/en/" align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-java-59-1174952.png?f=webp&w=256" />
-<img href="https://www.python.org/" align="left" width="45px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
-<img href="https://isocpp.org/" align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-cplusplus-1-1175244.png?f=webp&w=256" />
-<img href="https://learn.microsoft.com/en-us/dotnet/csharp/" align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-1-1175241.png?f=webp&w=256" />
+
+<a href="https://www.java.com/en/">
+  <img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-java-59-1174952.png?f=webp&w=256" />
+</a>
+<a href="https://www.python.org/">
+  <img align="left" width="45px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
+</a>
+<a href="https://isocpp.org/">
+  <img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-cplusplus-1-1175244.png?f=webp&w=256" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-1-1175241.png?f=webp&w=256" />
+</a>
 <img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-html5-40-1175193.png?f=webp&w=256" />
 <img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-css3-11-1175239.png?f=webp&w=256" />
 
@@ -26,11 +35,21 @@
 
 **Frameworks/Libraries**
 
-<img href="https://flask.palletsprojects.com/en/3.0.x/" align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-flask-51-285137.png?f=webp&w=256" />
-<img href="https://www.tensorflow.org/" align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-tensor-flow-5379385-4492469.png?f=webp&w=256" />
-<img href="https://scikit-learn.org/stable/" align="left" width="45px" src="https://www.cilans.net/wp-content/uploads/2019/09/scikit-learn-logo-notext-1.png" />
-<img href="https://git-scm.com/" align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-git-17-1175218.png?f=webp&w=256" />
-<img href="https://blazorise.com/" align="left" width="45px" src="https://blazorise.com/img/logos/blazorise-small.png" />
+<a href="https://flask.palletsprojects.com/en/3.0.x/">
+  <img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-flask-51-285137.png?f=webp&w=256" />
+</a>
+<a href="https://www.tensorflow.org/">
+  <img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-tensor-flow-5379385-4492469.png?f=webp&w=256" />
+</a>
+<a href="https://scikit-learn.org/stable/">
+  <img align="left" width="45px" src="https://www.cilans.net/wp-content/uploads/2019/09/scikit-learn-logo-notext-1.png" />
+</a>
+<a href="https://git-scm.com/">
+  <img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-git-17-1175218.png?f=webp&w=256" />
+</a>
+<a href="https://blazorise.com/">
+  <img align="left" width="45px" src="https://blazorise.com/img/logos/blazorise-small.png" />
+</a>
 
 
 <!--
