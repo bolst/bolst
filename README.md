@@ -15,7 +15,6 @@
 
 **Languages**
 
-
 <a href="https://www.java.com/en/">
   <img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-java-59-1174952.png?f=webp&w=256" />
 </a>
@@ -49,6 +48,12 @@
 </a>
 <a href="https://blazorise.com/">
   <img align="left" width="45px" src="https://blazorise.com/img/logos/blazorise-small.png" />
+</a>
+
+**Some of my closed-source apps**
+
+<a href="brboatbuddys.azurewebsites.net">
+  <img align="left" width="45px" src="https://uwin365-my.sharepoint.com/:i:/g/personal/bolton21_uwindsor_ca/EZcujFdsrNBMp1Ts8gzBAHwBI0PvWFP_NacwtqYHaI1YIw?e=aOB9g6" />
 </a>
 
 
