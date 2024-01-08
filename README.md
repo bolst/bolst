@@ -54,7 +54,7 @@
 
 **Some of my closed-source apps**
 
-<a href="brboatbuddys.azurewebsites.net">
+<a href="https://brboatbuddys.azurewebsites.net">
   <img align="left" width="45px" src="https://uwin365-my.sharepoint.com/:i:/r/personal/bolton21_uwindsor_ca/Documents/Attachments/brbb-nobkg.png?csf=1&web=1&e=2pfRnF" />
 </a>
 
