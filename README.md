@@ -55,7 +55,7 @@
 **Some of my closed-source apps**
 
 <a href="https://brboatbuddys.azurewebsites.net">
-<iframe src="https://uwin365-my.sharepoint.com/personal/bolton21_uwindsor_ca/_layouts/15/embed.aspx?UniqueId=578c2e97-ac6c-4cd0-a754-ecf20cc1007c" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="brbb-nobkg.png"></iframe>
+  <img align="left" width="45px" src=""https://uwin365-my.sharepoint.com/personal/bolton21_uwindsor_ca/_layouts/15/embed.aspx?UniqueId=578c2e97-ac6c-4cd0-a754-ecf20cc1007c" />
 </a>
 
 
