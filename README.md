@@ -54,9 +54,7 @@
 
 **Some of my closed-source apps**
 
-<a href="https://brboatbuddys.azurewebsites.net">
-  <img align="left" width="45px" src=""https://uwin365-my.sharepoint.com/personal/bolton21_uwindsor_ca/_layouts/15/embed.aspx?UniqueId=578c2e97-ac6c-4cd0-a754-ecf20cc1007c" />
-</a>
+<a href="https://brboatbuddys.azurewebsites.net">Belle River Boat Buddy's</a>
 
 
 <!--
