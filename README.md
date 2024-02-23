@@ -54,9 +54,9 @@
 
 **Some of my closed-source apps/sites**
 
-<a href="https://brboatbuddys.azurewebsites.net">Belle River Boat Buddy's</a>
+<a href="https://brboatbuddys.azurewebsites.net" target="_blank">Belle River Boat Buddy's</a>
 
-<a href="https://sammysbbq.azurewebsites.net">Sammy's Q BBQ</a>
+<a href="https://sammysbbq.azurewebsites.net" target="_blank">Sammy's Q BBQ</a>
 
 
 <!--
