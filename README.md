@@ -50,14 +50,6 @@
   <img align="left" width="45px" src="https://blazorise.com/img/logos/blazorise-small.png" />
 </a>
 
-<br/><br/><br/>
-
-**Some of my closed-source apps/sites**
-
-<a href="https://brboatbuddys.azurewebsites.net" target="_blank">Belle River Boat Buddy's</a>
-
-<a href="https://sammysbbq.azurewebsites.net" target="_blank">Sammy's Q BBQ</a>
-
 
 <!--
 **bolst/bolst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
