@@ -41,13 +41,13 @@
   <img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-tensor-flow-5379385-4492469.png?f=webp&w=256" />
 </a>
 <a href="https://scikit-learn.org/stable/">
-  <img align="left" width="45px" src="https://www.cilans.net/wp-content/uploads/2019/09/scikit-learn-logo-notext-1.png" />
-</a>
-<a href="https://git-scm.com/">
-  <img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-git-17-1175218.png?f=webp&w=256" />
+  <img align="left" width="45px" src="https://avatars.githubusercontent.com/u/17349883?s=280&v=4" />
 </a>
 <a href="https://blazorise.com/">
   <img align="left" width="45px" src="https://blazorise.com/img/logos/blazorise-small.png" />
+</a>
+<a href="https://mudblazor.com/">
+  <img align="left" width="45px" src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png" />
 </a>
 
 
