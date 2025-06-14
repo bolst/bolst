@@ -1,67 +1,26 @@
-### Hi 👋, I'm Nic Bolton
+## Nic Bolton
 
-### I'm currently a student at the University of Windsor, graduating in 2025 with a Combined Honours Physics & Computer Science degree
-
-**Connect with me**
-
-<a href="https://www.linkedin.com/in/nicbolt/">
-  <img align="left" alt="linkedin" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
-</a>
-<a href="https://leetcode.com/bolst/">
-  <img align="left" alt="leetcode" width="45px" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" />
-</a>
-
-<br/><br/><br/>
-
-**Languages**
-
-<a href="https://www.java.com/en/">
-  <img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-java-59-1174952.png?f=webp&w=256" />
-</a>
-<a href="https://www.python.org/">
-  <img align="left" width="45px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
-</a>
-<a href="https://isocpp.org/">
-  <img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-cplusplus-1-1175244.png?f=webp&w=256" />
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-  <img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-1-1175241.png?f=webp&w=256" />
-</a>
-<img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-html5-40-1175193.png?f=webp&w=256" />
-<img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-css3-11-1175239.png?f=webp&w=256" />
-
-<br/><br/><br/>
-
-**Frameworks/Libraries**
-
-<a href="https://flask.palletsprojects.com/en/3.0.x/">
-  <img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-flask-51-285137.png?f=webp&w=256" />
-</a>
-<a href="https://www.tensorflow.org/">
-  <img align="left" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/free-tensor-flow-5379385-4492469.png?f=webp&w=256" />
-</a>
-<a href="https://scikit-learn.org/stable/">
-  <img align="left" width="45px" src="https://avatars.githubusercontent.com/u/17349883?s=280&v=4" />
-</a>
-<a href="https://blazorise.com/">
-  <img align="left" width="45px" src="https://blazorise.com/img/logos/blazorise-small.png" />
-</a>
-<a href="https://mudblazor.com/">
-  <img align="left" width="45px" src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png" />
-</a>
+<p align="center">
+<b>Software developer @</b> <a href="https://casefms.com"><img alt="Case FMS" src="https://www.casefms.com/wp-content/uploads/2021/03/Case-Color-Logo-web.png" style="height: 2rem; vertical-align: middle;"></a>
+</p>
 
 
-<!--
-**bolst/bolst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://bolst.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-azure?logo=dotnet&logoColor=purple" /></a>
+  <a href="https://raw.githubusercontent.com/bolst/bolst/refs/heads/main/doc/cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-azure?logo=googlesheets&logoColor=blue" /></a>
+  <a href="https://github.com/bolst"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-azure?logo=github&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/nicbolt"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-azure?logo=inspire&logoColor=blue" /></a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+<div align="center">
+  <a href="https://dotnet.microsoft.com"><img alt=".NET" src="https://img.shields.io/badge/-512BD4?logo=dotnet&logoColor=white" /></a>
+  <a href="https://cplusplus.com"><img alt="C++" src="https://img.shields.io/badge/-00599C?logo=cplusplus&logoColor=white" /></a>
+  <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/-dddddd?logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgVHJhbnNmb3JtZWQgYnk6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgoNPGcgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIiBzdHJva2Utd2lkdGg9IjAiLz4KDTxnIGlkPSJTVkdSZXBvX3RyYWNlckNhcnJpZXIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgoNPGcgaWQ9IlNWR1JlcG9faWNvbkNhcnJpZXIiPiA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTEzLjAxNjQgMkMxMC44MTkzIDIgOS4wMzgyNSAzLjcyNDUzIDkuMDM4MjUgNS44NTE4NVY4LjUxODUySDE1LjkyMzVWOS4yNTkyNkg1Ljk3ODE0QzMuNzgxMDcgOS4yNTkyNiAyIDEwLjk4MzggMiAxMy4xMTExTDIgMTguODg4OUMyIDIxLjAxNjIgMy43ODEwNyAyMi43NDA3IDUuOTc4MTQgMjIuNzQwN0g4LjI3MzIyVjE5LjQ4MTVDOC4yNzMyMiAxNy4zNTQyIDEwLjA1NDMgMTUuNjI5NiAxMi4yNTE0IDE1LjYyOTZIMTkuNTk1NkMyMS40NTQ3IDE1LjYyOTYgMjIuOTYxNyAxNC4xNzA0IDIyLjk2MTcgMTIuMzcwNFY1Ljg1MTg1QzIyLjk2MTcgMy43MjQ1MyAyMS4xODA3IDIgMTguOTgzNiAySDEzLjAxNjRaTTEyLjA5ODQgNi43NDA3NEMxMi44NTg5IDYuNzQwNzQgMTMuNDc1NCA2LjE0Mzc4IDEzLjQ3NTQgNS40MDc0MUMxMy40NzU0IDQuNjcxMDMgMTIuODU4OSA0LjA3NDA3IDEyLjA5ODQgNC4wNzQwN0MxMS4zMzc4IDQuMDc0MDcgMTAuNzIxMyA0LjY3MTAzIDEwLjcyMTMgNS40MDc0MUMxMC43MjEzIDYuMTQzNzggMTEuMzM3OCA2Ljc0MDc0IDEyLjA5ODQgNi43NDA3NFoiIGZpbGw9InVybCgjcGFpbnQwX2xpbmVhcl84N184MjA0KSIvPiA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTE4Ljk4MzQgMzBDMjEuMTgwNSAzMCAyMi45NjE2IDI4LjI3NTUgMjIuOTYxNiAyNi4xNDgyVjIzLjQ4MTVMMTYuMDc2MyAyMy40ODE1TDE2LjA3NjMgMjIuNzQwOEwyNi4wMjE3IDIyLjc0MDhDMjguMjE4OCAyMi43NDA4IDI5Ljk5OTggMjEuMDE2MiAyOS45OTk4IDE4Ljg4ODlWMTMuMTExMUMyOS45OTk4IDEwLjk4MzggMjguMjE4OCA5LjI1OTI4IDI2LjAyMTcgOS4yNTkyOEwyMy43MjY2IDkuMjU5MjhWMTIuNTE4NUMyMy43MjY2IDE0LjY0NTkgMjEuOTQ1NSAxNi4zNzA0IDE5Ljc0ODUgMTYuMzcwNEwxMi40MDQyIDE2LjM3MDRDMTAuNTQ1MSAxNi4zNzA0IDkuMDM4MDkgMTcuODI5NiA5LjAzODA5IDE5LjYyOTZMOS4wMzgwOSAyNi4xNDgyQzkuMDM4MDkgMjguMjc1NSAxMC44MTkyIDMwIDEzLjAxNjIgMzBIMTguOTgzNFpNMTkuOTAxNSAyNS4yNTkzQzE5LjE0MDkgMjUuMjU5MyAxOC41MjQ0IDI1Ljg1NjIgMTguNTI0NCAyNi41OTI2QzE4LjUyNDQgMjcuMzI5IDE5LjE0MDkgMjcuOTI1OSAxOS45MDE1IDI3LjkyNTlDMjAuNjYyIDI3LjkyNTkgMjEuMjc4NSAyNy4zMjkgMjEuMjc4NSAyNi41OTI2QzIxLjI3ODUgMjUuODU2MiAyMC42NjIgMjUuMjU5MyAxOS45MDE1IDI1LjI1OTNaIiBmaWxsPSJ1cmwoI3BhaW50MV9saW5lYXJfODdfODIwNCkiLz4gPGRlZnM+IDxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQwX2xpbmVhcl84N184MjA0IiB4MT0iMTIuNDgwOSIgeTE9IjIiIHgyPSIxMi40ODA5IiB5Mj0iMjIuNzQwNyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPiA8c3RvcCBzdG9wLWNvbG9yPSIjMzI3RUJEIi8+IDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzE1NjVBNyIvPiA8L2xpbmVhckdyYWRpZW50PiA8bGluZWFyR3JhZGllbnQgaWQ9InBhaW50MV9saW5lYXJfODdfODIwNCIgeDE9IjE5LjUxOSIgeTE9IjkuMjU5MjgiIHgyPSIxOS41MTkiIHkyPSIzMCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPiA8c3RvcCBzdG9wLWNvbG9yPSIjRkZEQTRCIi8+IDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI0Y5QzYwMCIvPiA8L2xpbmVhckdyYWRpZW50PiA8L2RlZnM+IDwvZz4KDTwvc3ZnPg==" /></a>
+  <a href="https://www.java.com"><img alt="Java" src="https://img.shields.io/badge/-dddddd?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNMTEuNjIyIDI0Ljc0cy0xLjIzLjc0OC44NTUuOTYyYzIuNTEuMzIgMy44NDcuMjY3IDYuNjI1LS4yNjdhMTAuMDIgMTAuMDIgMCAwIDAgMS43NjMuODU1Yy02LjI1IDIuNjcyLTE0LjE2LS4xNi05LjI0NC0xLjU1em0tLjgtMy40NzNzLTEuMzM2IDEuMDE1Ljc0OCAxLjIzYzIuNzI1LjI2NyA0Ljg2Mi4zMiA4LjU1LS40MjdhMy4yNiAzLjI2IDAgMCAwIDEuMjgyLjgwMWMtNy41MzQgMi4yNDQtMTUuOTc2LjIxNC0xMC41OC0xLjYwM3ptMTQuNzQ3IDYuMDlzLjkwOC43NDgtMS4wMTUgMS4zMzZjLTMuNTggMS4wNy0xNS4wMTQgMS4zOS0xOC4yMiAwLTEuMTIyLS40OCAxLjAxNS0xLjE3NSAxLjctMS4yODIuNjk1LS4xNiAxLjA3LS4xNiAxLjA3LS4xNi0xLjIzLS44NTUtOC4xNzUgMS43NjMtMy41MjYgMi41MSAxMi43NyAyLjA4NCAyMy4yOTYtLjkwOCAxOS45ODMtMi40MDR6TTEyLjIgMTcuNjMzcy01LjgyNCAxLjM5LTIuMDg0IDEuODdjMS42MDMuMjE0IDQuNzU1LjE2IDcuNjk0LS4wNTMgMi40MDQtLjIxNCA0LjgxLS42NCA0LjgxLS42NHMtLjg1NS4zNzQtMS40NDMuNzQ4Yy01LjkzIDEuNTUtMTcuMzEyLjg1NS0xNC4wNTItLjc0OCAyLjc3OC0xLjMzNiA1LjA3Ni0xLjE3NSA1LjA3Ni0xLjE3NXptMTAuNDIgNS44MjRjNS45ODQtMy4xIDMuMjA2LTYuMDkgMS4yODItNS43MTctLjQ4LjEwNy0uNjk1LjIxNC0uNjk1LjIxNHMuMTYtLjMyLjUzNC0uNDI3YzMuNzk0LTEuMzM2IDYuNzg2IDQuMDA3LTEuMjMgNi4wOSAwIDAgLjA1My0uMDUzLjEwNy0uMTZ6bS05LjgzIDguNDQyYzUuNzcuMzc0IDE0LjU4Ny0uMjE0IDE0LjgtMi45NCAwIDAtLjQyNyAxLjA3LTQuNzU1IDEuODctNC45MTYuOTA4LTExLjAwNy44LTE0LjU4Ny4yMTQgMCAwIC43NDguNjQgNC41NDIuODU1eiIgZmlsbD0iIzRlNzg5NiIvPjxwYXRoIGQ9Ik0xOC45OTYuMDAxczMuMzEzIDMuMzY2LTMuMTUyIDguNDQyYy01LjE4MyA0LjExNC0xLjE3NSA2LjQ2NSAwIDkuMTM3LTMuMDQ2LTIuNzI1LTUuMjM2LTUuMTMtMy43NC03LjM3M0MxNC4yOTQgNi44OTMgMjAuMzMyIDUuMyAxOC45OTYuMDAxem0tMS43IDE1LjMzNWMxLjU1IDEuNzYzLS40MjcgMy4zNjYtLjQyNyAzLjM2NnMzLjk1NC0yLjAzIDIuMTM3LTQuNTQyYy0xLjY1Ni0yLjQwNC0yLjk0LTMuNTggNC4wMDctNy41ODcgMCAwLTEwLjk1MyAyLjcyNS01LjcxNyA4Ljc2M3oiIGZpbGw9IiNmNTgyMTkiLz48L3N2Zz4=" /></a>
+  <a href="https://www.postgresql.org"><img alt="PostgreSQL" src="https://img.shields.io/badge/-4169E1?logo=postgresql&logoColor=white" /></a>
+  <a href="https://supabase.com"><img alt="Supabase" src="https://img.shields.io/badge/-black?logo=supabase&logoColor=#3FCF8E" /></a>
+  <a href="https://supabase.com"><img alt="Docker" src="https://img.shields.io/badge/-azure?logo=docker&logoColor=#2496ED" /></a>
+</div>
