@@ -8,7 +8,6 @@
 <div align="center">
   <a href="https://bolst.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-azure?logo=dotnet&logoColor=purple" /></a>
   <a href="https://raw.githubusercontent.com/bolst/bolst/refs/heads/main/doc/cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-azure?logo=googlesheets&logoColor=blue" /></a>
-  <a href="https://github.com/bolst"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-azure?logo=github&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/nicbolt"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-azure?logo=inspire&logoColor=blue" /></a>
 </div>
 
