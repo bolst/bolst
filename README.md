@@ -22,4 +22,6 @@
   <a href="https://www.postgresql.org"><img alt="PostgreSQL" src="https://img.shields.io/badge/-4169E1?logo=postgresql&logoColor=white" /></a>
   <a href="https://supabase.com"><img alt="Supabase" src="https://img.shields.io/badge/-black?logo=supabase&logoColor=#3FCF8E" /></a>
   <a href="https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/-azure?logo=docker&logoColor=#2496ED" /></a>
+  <a href="https://n8n.io/"><img alt="n8n" src="https://img.shields.io/badge/-010102?logo=n8n&logoColor=#EA4B71" /></a>
+  <a href="https://ollama.com/"><img alt="ollama" src="https://img.shields.io/badge/-ffffff?logo=ollama&logoColor=black" /></a>
 </div>
